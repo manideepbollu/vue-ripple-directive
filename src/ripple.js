@@ -146,4 +146,4 @@ function setProps(modifiers,props) {
     });
 }
 
-export default Ripple;
+module.exports = Ripple;
